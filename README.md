@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello World 👋
+
+I'm Anthony, a soon-to-be Business Analytics graduate from Nanyang Technological University, with a passion for using data to drive meaningful business insights and decision-making.
+
+You can find a summary of projects I've worked on in my [portfolio](https://github.com/anthonykhj/Portfolio).
+
+Thank you for stopping by! 😄
 
 <!--
 **anthonykhj/anthonykhj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
