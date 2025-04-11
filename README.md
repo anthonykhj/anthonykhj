@@ -1,5 +1,7 @@
 ## Hello World 👋
 
+![image](https://github.com/user-attachments/assets/5e16ff54-290d-480a-905f-0dd9aa7c73f3)
+
 I'm Anthony, a soon-to-be Business Analytics graduate from Nanyang Technological University, with a passion for using data to drive meaningful business insights and decision-making.
 
 You can find a summary of projects I've worked on in my [portfolio](https://github.com/anthonykhj/Portfolio).
